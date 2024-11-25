@@ -1,0 +1,1 @@
+The code processes a video to identify people, assigns each person a unique ID, and tracks them as they move through the frames. If a person leaves the video and comes back later, the code recognizes them and gives them the same ID they had before. The final video highlights each person with a box around them and their ID, making it easy to follow who is who throughout the video.
